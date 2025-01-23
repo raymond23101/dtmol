@@ -21,3 +21,5 @@ dtmol/pretrain_models/
 # Training record
 wandb/
 
+# test folder
+test/
