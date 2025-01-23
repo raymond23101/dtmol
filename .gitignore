@@ -1,0 +1,23 @@
+# Binary cache file
+__pycache__/
+*.py[cod]
+
+# Distribution
+*.egg-info/
+*.so3*
+*test.py
+test*.py
+
+# Reference papers
+refs/
+
+# Model folder
+models/
+dtmol/models/
+dtmol/assets/*
+dtmol/pretrain_models/
+*.pt
+
+# Training record
+wandb/
+
