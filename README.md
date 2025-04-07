@@ -1,6 +1,6 @@
 # dtMol - Diffusion Transformer for Molecular Docking
 
-Model and data files can be obtained upon request.
+Large model and data files can be obtained upon request to haotiant@andrew.cmu.edu or havens.teng@gmail.com
 
 ### Installation
 ```bash
