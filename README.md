@@ -1,5 +1,4 @@
 # dtMol - Diffusion Transformer for Molecular Docking
-The document is under construction.
 
 Model and data files can be obtained upon request.
 
